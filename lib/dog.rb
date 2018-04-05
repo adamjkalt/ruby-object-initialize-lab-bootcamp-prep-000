@@ -23,4 +23,3 @@ class Dog
 
 Fido = Dog.new("Mutt")
 end
-end
