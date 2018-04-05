@@ -27,9 +27,4 @@ class Dog
   def breed=(new_breed)
    @breed = new_breed
  end
-
- breed.breed = "Mutt"
-
-end
-end
 end
