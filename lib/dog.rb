@@ -21,5 +21,4 @@ class Dog
     @breed
   end
 
-Fido = Dog.new("Mutt")
 end
