@@ -22,6 +22,4 @@ class Dog
   end
 
 Dog.new("Mutt")
-
-end
 end
