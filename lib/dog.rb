@@ -21,4 +21,6 @@ class Dog
     @breed
   end
 
+fido = Dog.new
+fido.breed = Mutt
 end
